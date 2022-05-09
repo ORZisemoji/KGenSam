@@ -9,7 +9,7 @@ If you want to use our codes and datasets in your research, please cite:
 @inproceedings{KGenSam,
   author    = {Mengyuan Zhao, Xiaowen Huang, Lixi Zhu, Jitao Sang, Jian Yu},
   title     = {Knowledge Graph-enhanced Sampling for Conversational Recommender System},
-  booktitle = {{TKDE}},
+  booktitle = {http://arxiv.org/abs/2110.06637},
   pages     = {},
   year      = {}
 }
@@ -191,7 +191,7 @@ Any scientific publications that use our datasets should cite the following pape
 @inproceedings{KGenSam,
   author    = {Mengyuan Zhao, Xiaowen Huang, Lixi Zhu, Jitao Sang, Jian Yu},
   title     = {Knowledge Graph-enhanced Sampling for Conversational Recommender System},
-  booktitle = {{TKDE}},
+  booktitle = {http://arxiv.org/abs/2110.06637},
   year      = {}
 }
 ```
